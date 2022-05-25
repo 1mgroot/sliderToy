@@ -1,6 +1,6 @@
 # Slider Toy
 
-A fun website project using Vanilla HTML.
+A fun practice project using Vanilla HTML.
 
 Created with CodeSandbox
 
