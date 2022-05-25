@@ -1,4 +1,7 @@
-# sliderToy
+# Slider Toy
+
+A fun website project using Vanilla HTML.
+
 Created with CodeSandbox
 
 https://5bsxe.csb.app
